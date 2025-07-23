@@ -1,4 +1,4 @@
-# 🛠️ Loja API — ASP.NET Core 8 + SQLite + Entity Framework Core
+# 🛠️ Loja API — ASP.NET Core 9 + SQLite + Entity Framework Core
 
 API REST que gerencia **Pessoas**, **Produtos** e **Pedidos**.  
 Documentação OpenAPI/Swagger embutida em `/swagger`.
